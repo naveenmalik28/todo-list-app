@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/githup.io/todo-list-app/static/css/main.e6c13ad2.css",
+    "main.js": "/githup.io/todo-list-app/static/js/main.4d640c70.js",
+    "static/js/453.4869e0f5.chunk.js": "/githup.io/todo-list-app/static/js/453.4869e0f5.chunk.js",
+    "index.html": "/githup.io/todo-list-app/index.html",
+    "main.e6c13ad2.css.map": "/githup.io/todo-list-app/static/css/main.e6c13ad2.css.map",
+    "main.4d640c70.js.map": "/githup.io/todo-list-app/static/js/main.4d640c70.js.map",
+    "453.4869e0f5.chunk.js.map": "/githup.io/todo-list-app/static/js/453.4869e0f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4d640c70.js"
+  ]
+}
